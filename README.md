@@ -11,6 +11,10 @@ This is a simple weather app that retrieves real-time weather information for a 
    ```bash
    git clone https://github.com/your-username/weather-app.git
 
+## Acknowledgments
+OpenWeatherMap API for providing weather data.
+
+
 ## API Configuration
 Make sure to replace the placeholder API key with your own OpenWeatherMap API key in the script.js file:
 
@@ -20,11 +24,6 @@ const api = {
     key: "your-api-key-here"
 };
 
-
-
-
-## Acknowledgments
-OpenWeatherMap API for providing weather data.
 
 
 
