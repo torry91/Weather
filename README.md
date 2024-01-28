@@ -1,5 +1,7 @@
 # Weather App
 
+<img width="775" alt="pic" src="https://github.com/torry91/Weather/assets/149702982/d0fb3230-9c15-4108-8624-f71a636207ae">
+
 ## Description
 
 This is a simple weather app that retrieves real-time weather information for a specific city using the OpenWeatherMap API. The application displays the current temperature, feels-like temperature, weather conditions, and temperature variation (min and max).
