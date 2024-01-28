@@ -21,6 +21,8 @@ const api = {
 };
 
 
+
+
 ## Acknowledgments
 OpenWeatherMap API for providing weather data.
 
