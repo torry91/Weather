@@ -14,6 +14,7 @@ This is a simple weather app that retrieves real-time weather information for a 
 ## API Configuration
 Make sure to replace the placeholder API key with your own OpenWeatherMap API key in the script.js file:
 
+```bash
 const api = {
     endpoint: "https://api.openweathermap.org/data/2.5/",
     key: "your-api-key-here"
